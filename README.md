@@ -1,4 +1,4 @@
-# Son Mod
+# Sondustry
 [![Badge Discord]][Discord]
 
 Sons everon worn ton son.
