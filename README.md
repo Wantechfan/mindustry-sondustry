@@ -1,4 +1,4 @@
-# mindustry-son-mod
+# Son Mod
 [![Badge Discord]][Discord]
 
 Sons everon worn ton son.
