@@ -1,0 +1,8 @@
+name: "son-mod"
+displayName: "Son Mod"
+auther: "WantechFan"
+description: "Addon son ton everon worn"
+version: "0.1"
+minGameVersion: "146"
+hidden: true
+subtitle: "Son"
