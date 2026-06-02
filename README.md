@@ -1,3 +1,5 @@
+![icon](icon.png)
+
 # Sondustry
 [![Badge Discord]][Discord]
 
