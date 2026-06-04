@@ -1,4 +1,5 @@
-![icon](icon.png)
+<p align="center">
+<img src=sprites-override/ui/logo.png alt="Project Logo">
 
 # Sondustry
 [![Badge Discord]][Discord]
